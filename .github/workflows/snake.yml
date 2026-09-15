@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ejoao007y-dev
+          github_user_name: JoaoevangelistaDeveloper
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
