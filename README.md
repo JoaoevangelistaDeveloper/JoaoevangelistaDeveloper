@@ -307,7 +307,7 @@ PRÓXIMO NÍVEL
 
 <div align="center">
 
-<a href="https://github.com/ejoao007y-dev">
+<a href="https://github.com/JoaoevangelistaDeveloper">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
