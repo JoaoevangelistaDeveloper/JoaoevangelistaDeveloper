@@ -244,14 +244,29 @@ STATUS: ONLINE 🚀
 ```
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ejoao007y-dev/ejoao007y-dev/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JoaoEvangelistaDeveloper/ejoao007y-dev/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JoaoEvangelistaDeveloper/ejoao007y-dev/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/JoaoEvangelistaDeveloper/ejoao007y-dev/output/github-snake.svg"
+    alt="Snake animation das contribuições do GitHub"
+  />
+
+</picture>
 
 </div>
-
 ---
 
 # 📚 Minha evolução
