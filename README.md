@@ -24,20 +24,20 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                 JOÃO EVANGELISTA                        ║
-║              DEVELOPER PROFILE v1.0                     ║
+║                 JOÃO EVANGELISTA                         ║
+║              DEVELOPER PROFILE v1.0                      ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  [✓] Sistema iniciado                                   ║
+║  [✓] Sistema iniciado                                    ║
 ║  [✓] Java carregado                                      ║
 ║  [✓] POO carregado                                       ║
-║  [✓] Collections carregadas                             ║
+║  [✓] Collections carregadas                              ║
 ║  [✓] Git & GitHub configurados                           ║
 ║  [✓] Projetos práticos em desenvolvimento                ║
-║  [~] JavaScript em evolução                             ║
-║  [~] Full Stack: processo iniciado                      ║
+║  [~] JavaScript em evolução                              ║
+║  [~] Full Stack: processo iniciado                       ║
 ║                                                          ║
-║  STATUS: ███████████████████░░░  EM EVOLUÇÃO            ║
+║  STATUS: ███████████████████░░░  EM EVOLUÇÃO             ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -110,16 +110,16 @@ Construir projetos cada vez melhores
 
 # 🧰 Ferramentas que utilizo
 
-| Ferramenta       | Utilização                    |
-| ---------------- | ----------------------------- |
-| ☕ Java           | Principal linguagem de estudo |
-| 💡 IntelliJ IDEA | Desenvolvimento Java          |
+| Ferramenta        | Utilização                    |
+| ----------------  | ----------------------------- |
+| ☕ Java          | Principal linguagem de estudo |
+| 💡 IntelliJ IDEA  | Desenvolvimento Java          |
 | 📝 VS Code       | Desenvolvimento Web           |
 | 🔧 Git           | Controle de versão            |
 | 🐙 GitHub        | Projetos e versionamento      |
 | 🌐 HTML          | Estrutura Web                 |
 | 🎨 CSS           | Estilização                   |
-| ⚡ JavaScript     | Interatividade Web            |
+| ⚡ JavaScript    | Interatividade Web            |
 
 ---
 
